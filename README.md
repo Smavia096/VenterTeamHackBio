@@ -13,4 +13,4 @@ Samuel Oluwafemi Egbuwalo
 
 Adebayo Oluwafemi Adekunle
 
-<img src="https://user-images.githubusercontent.com/88288059/128297128-c116a483-8960-4044-add3-4c3e81c1dea4.jpg" alt="your name." width="300" height= "200"/>
+<img src="https://user-images.githubusercontent.com/88288059/128306099-6c63194d-890b-4e18-a5da-6ed7c3dca6b4.jpg" alt="your name." width="300" height= "200"/>
