@@ -23,6 +23,3 @@ Ureeza
 
 <img src="https://user-images.githubusercontent.com/88342626/128333454-09ecb286-2cc1-4b3c-88e2-a58bc11ffb6d.jpeg" alt="your name." width="300" height= "200"/>
 
-Kalen Ephraim Audu
-
-<img src="https://user-images.githubusercontent.com/88288273/128357997-0e00655d-9c71-4575-a1dc-9a8c2b7d8574.jpg" alt="your name." width="300" height= "200"/>
