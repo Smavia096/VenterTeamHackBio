@@ -32,7 +32,7 @@ public class hadeel_script {
     System.out.println("slackname_username:@deela");
     System.out.println("biostack:genomics");
     System.out.println("twitter_handle:@doody");
-    System.out.print("hamming Distance:");
+    System.out.print("hamming_Distance:");
     System.out.println(hammingDist (str1, str2));
 }
 }
